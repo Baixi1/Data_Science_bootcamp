@@ -17,4 +17,5 @@ I learn a lot of stuff related to data science skills.
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me in : Link linkend
   
